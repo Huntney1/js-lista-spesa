@@ -1,10 +1,10 @@
 const list = [
-    'Cioccolata',
+    '-Cioccolata-',
     'Guanciale',
     'Pecorino',
     'Pasta',
     'Uova',
-    'Pasta di pomodoro',
+    'Passata di pomodoro',
     'Piatti',
     'Acqua',
 ]

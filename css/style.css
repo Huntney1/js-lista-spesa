@@ -10,25 +10,35 @@
     
 }
 
-.col {}
+.col {
+  /*   height: 40rem; */
+    outline: 2px solid black;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    border-radius: 0.35rem;
+}
 
 .col ul {
-    margin: 0;
     text-align: center;
 }
 
 .shopping-list {
-    width: 30rem;
+   /*  width: 30rem; */
     outline: 2px solid black;
     border-radius: 0.35rem;
 }
 
 h1 {
-    text-align: center;
+    display: flex;
+    justify-content: center;
+    margin: 8% 9% 0% 9%;
+    outline: 1px solid black;
+    border-radius: 0.35rem;
+    padding: 0.359rem;
 }
 
 ol {
-    margin: 5em;
+    margin: 2.5em;
     background: #3399ff;
     padding: 15px 25px 15px;
     list-style-type: none;
