@@ -1,4 +1,4 @@
-const list = [
+let list = [
     '-Cioccolata-',
     'Guanciale',
     'Pecorino',
